@@ -67,7 +67,7 @@
         app:layout_constraintTop_toBottomOf="@+id/email_et" />
 
     <Button
-        android:id="@+id/login_btn"
+        android:id="@+id/register_btn"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
@@ -83,11 +83,11 @@
         android:layout_marginTop="8dp"
         android:text="Do you already have an account?"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="@+id/login_btn"
-        app:layout_constraintTop_toBottomOf="@+id/login_btn" />
+        app:layout_constraintStart_toStartOf="@+id/register_btn"
+        app:layout_constraintTop_toBottomOf="@+id/register_btn" />
 
     <TextView
-        android:id="@+id/register_tv"
+        android:id="@+id/login_tv"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="8dp"

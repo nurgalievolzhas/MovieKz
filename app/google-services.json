@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "726223807580",
+    "project_id": "moviekz",
+    "storage_bucket": "moviekz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726223807580:android:4ef055490cab6ae5187299",
+        "android_client_info": {
+          "package_name": "com.snakes.moviekz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726223807580-p91ct4ia994crcg3u5csmphm7h88bsbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwb2XG43f3eH9FD4OKI-O5o2q1GGgKf8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726223807580-p91ct4ia994crcg3u5csmphm7h88bsbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
